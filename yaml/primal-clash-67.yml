@@ -1,0 +1,97 @@
+---
+id: xy5-67
+name: Nidorina
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Psychic
+evolvesFrom: Nidoran ♀
+evolvesTo:
+- Nidoqueen
+attacks:
+- name: Scratch
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '20'
+  text: ''
+- name: Strength
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: xy5
+  name: Primal Clash
+  series: XY
+  printedTotal: 160
+  total: 164
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PRC
+  releaseDate: 2015/02/04
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/xy5/symbol.png
+    logo: https://images.pokemontcg.io/xy5/logo.png
+number: '67'
+artist: Aya Kusube
+rarity: Uncommon
+flavorText: When feeding its young, it first chews the food into a paste, then spits
+  it out for the offspring.
+nationalPokedexNumbers:
+- 30
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy5/67.png
+  large: https://images.pokemontcg.io/xy5/67_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy5-67
+  updatedAt: 2023/09/14
+  prices:
+    normal:
+      low: 0.12
+      mid: 0.28
+      high: 3.0
+      market: 0.28
+      directLow: 
+    reverseHolofoil:
+      low: 0.25
+      mid: 0.69
+      high: 1.95
+      market: 0.57
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy5-67
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.2
+    lowPrice: 0.02
+    trendPrice: 0.21
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.0
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 0.58
+    lowPriceExPlus: 0.02
+    avg1: 0.24
+    avg7: 0.18
+    avg30: 0.19
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 0.6
+    reverseHoloAvg30: 0.59

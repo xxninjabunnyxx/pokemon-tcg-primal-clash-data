@@ -1,0 +1,100 @@
+---
+id: xy5-9
+name: Sceptile
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Grass
+evolvesFrom: Grovyle
+ancientTrait:
+  name: Ω Barrier
+  text: Whenever your opponent plays a Trainer card (excluding Pokémon Tools and Stadium
+    cards), prevent all effects of that card done to this Pokémon.
+attacks:
+- name: Leaf Blade
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: 30+
+  text: Flip a coin. If heads, this attack does 30 more damage.
+- name: Power Poison
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '120'
+  text: Discard 1 Energy attached to this Pokémon. Your opponent's Active Pokémon
+    is now Poisoned.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: xy5
+  name: Primal Clash
+  series: XY
+  printedTotal: 160
+  total: 164
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PRC
+  releaseDate: 2015/02/04
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/xy5/symbol.png
+    logo: https://images.pokemontcg.io/xy5/logo.png
+number: '9'
+artist: hatachu
+rarity: Rare Holo
+flavorText: It agilely leaps about the jungle and uses the sharp leaves on its arms
+  to strike its prey.
+nationalPokedexNumbers:
+- 254
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy5/9.png
+  large: https://images.pokemontcg.io/xy5/9_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy5-9
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 1.19
+      mid: 1.75
+      high: 3.24
+      market: 1.53
+      directLow: 
+    reverseHolofoil:
+      low: 1.58
+      mid: 1.79
+      high: 3.24
+      market: 1.78
+      directLow: 1.71
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy5-9
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 5.5
+    lowPrice: 2.0
+    trendPrice: 4.96
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 2.0
+    reverseHoloTrend: 5.58
+    lowPriceExPlus: 2.0
+    avg1: 6.0
+    avg7: 5.19
+    avg30: 3.87
+    reverseHoloAvg1: 1.95
+    reverseHoloAvg7: 6.02
+    reverseHoloAvg30: 4.81
